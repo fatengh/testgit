@@ -12,6 +12,7 @@ struct testgitApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //print("hello world")
         }
     }
 }
